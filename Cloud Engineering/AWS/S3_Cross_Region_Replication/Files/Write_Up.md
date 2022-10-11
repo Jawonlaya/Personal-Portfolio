@@ -43,5 +43,4 @@ Step 8: Navigate back to our created S3 bucket. Click on the first bucket (my-aw
 Step 9: Next is to test if our replication bucket is working. Navigate to the first S3 bucket and click on it. Click on the upload tab and upload any file of your choice. I will be using 2 image files for this project. You should see a successful Job ID. Now navigate to your second bucket and the same files should be replicated in your second S3 bucket.
  
 Conclusion: If you face any problem regarding any solution, please feel free to reach out to me and I will be glad to point you in the right direction. And please consider letting me know what I could have done better in the write-up.
-
--Austine
+Thank you.
